@@ -1,0 +1,8 @@
+[package]
+name = "noir_poseidon"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.23.0"
+description="Poseidon Hash implementation in Noir"
+
+[dependencies]
