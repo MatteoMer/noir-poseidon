@@ -1,3 +1,3 @@
-poseidon hash implementation in noir
+## Poseidon hash implementation in noir
 
-look at my notes about poseidon, [here](https://publish.obsidian.md/matteo/3.+Permanent+notes/Poseidon+hash+function)
+If you want to know more, you can look at my notes about Poseidon [here](https://publish.obsidian.md/matteo/3.+Permanent+notes/Poseidon+hash+function)
